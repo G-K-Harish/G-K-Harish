@@ -1,59 +1,62 @@
 <!-- ========================================= -->
-<!--           PREMIUM GITHUB PROFILE          -->
+<!--          HARISH G K • GITHUB PROFILE       -->
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,12,14,18,20,24&text=Harish%20G%20K&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20•%20AI%20Engineer%20•%20Software%20Developer&descAlignY=55&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,12,14,18,20,24&text=Harish%20G%20K&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Engineer%20•%20Python%20Developer%20•%20AI%20Learner&descAlignY=55&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Building+Scalable+Data+Platforms.;AI+%7C+Data+Engineering+%7C+Cloud+Architecture.;Python+%E2%80%A2+SQL+%E2%80%A2+Spark+%E2%80%A2+Airflow+%E2%80%A2+AWS."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Aspiring+Data+Engineer;Building+Production-Ready+Data+Projects;Python+%E2%80%A2+SQL+%E2%80%A2+Apache+Spark+%E2%80%A2+Airflow+%E2%80%A2+AWS;Learning+Data+Science+%26+Generative+AI" />
 </p>
 
 ---
 
 <p align="center">
 
-![](https://img.shields.io/badge/B.E-Mechatronics-5B21B6?style=for-the-badge)
-![](https://img.shields.io/badge/Data%20Engineering-Specialization-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/AI%20%26%20Generative%20AI-HCL%20GUVI-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/B.E-Mechatronics%20Engineering-5B21B6?style=for-the-badge)
+![](https://img.shields.io/badge/HCL%20GUVI-Data%20Science%20%26%20Generative%20AI-7C3AED?style=for-the-badge)
+![](https://img.shields.io/badge/Graduated-2023-6D28D9?style=for-the-badge)
 
 </p>
 
 <p align="center">
 
-![](https://img.shields.io/badge/Location-Tamil%20Nadu,%20India-4F46E5?style=flat-square)
-![](https://img.shields.io/badge/Open%20To-Data%20Engineer-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/Cloud-AWS-5B21B6?style=flat-square)
-![](https://img.shields.io/badge/AI-Generative%20AI-9333EA?style=flat-square)
+![](https://img.shields.io/badge/Tamil%20Nadu-India-4338CA?style=flat-square)
+![](https://img.shields.io/badge/Open%20to-Bengaluru%20%7C%20Chennai-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/Target%20Role-Data%20Engineer-9333EA?style=flat-square)
 
 </p>
 
 <p align="center">
 
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Resume-Download-111827?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-312E81?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/harish-gk">
+<img src="https://img.shields.io/badge/LinkedIn-Harish%20G%20K-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github-username">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="mailto:gkharish2324@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-gkharish2324%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/G-K-Harish">
+<img src="https://img.shields.io/badge/GitHub-G--K--Harish-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/followers/your-github-username?style=flat-square&color=7C3AED&label=Followers)
-![](https://img.shields.io/github/stars/your-github-username?affiliations=OWNER&style=flat-square&color=6D28D9&label=Stars)
+![](https://komarev.com/ghpvc/?username=G-K-Harish&style=flat-square&color=7C3AED)
+![](https://img.shields.io/github/followers/G-K-Harish?style=flat-square&color=7C3AED&label=Followers)
+![](https://img.shields.io/github/stars/G-K-Harish?affiliations=OWNER&style=flat-square&color=6D28D9&label=Stars)
 
 </p>
 
@@ -61,44 +64,66 @@
 
 # ABOUT ME
 
-I am a **Data Engineer and AI Engineer** passionate about building scalable, production-ready data platforms and intelligent software systems.
+I'm **Harish G K**, an **Aspiring Data Engineer** from **Tamil Nadu, India** with a Bachelor's degree in **Mechatronics Engineering (2023)**.
 
-My engineering philosophy revolves around designing systems that are:
+After graduation, I decided to transition into **Data Engineering** and started learning **Data Science & Generative AI** through **HCL GUVI** on **15 July 2026**. My learning focuses on building production-style data engineering projects rather than only studying theory.
 
-- Scalable.
-- Reliable.
-- Cloud-native.
-- Observable.
-- Secure.
-- AI-enabled.
+I'm currently building my GitHub portfolio while preparing for **Data Engineer opportunities** in **Bengaluru** and **Chennai**.
 
-I enjoy solving complex engineering problems through clean architecture, automation, distributed computing, and machine learning.
-
-### Engineering Interests
+### What I'm interested in
 
 - Data Engineering
-- Artificial Intelligence
-- Machine Learning
-- Backend Engineering
-- Cloud Architecture
-- DevOps Automation
-- Distributed Systems
-- Analytics Engineering
-- MLOps
-- Product Engineering
+- ETL / ELT Pipelines
+- Data Warehousing
+- Distributed Data Processing
+- Cloud Data Platforms
+- Backend Engineering with Python
+- Artificial Intelligence & Generative AI
 
 ---
 
 ## OPEN TO
 
 | Role | Status |
-|-------|--------|
-| Data Engineer | Open |
-| AI Engineer | Open |
-| Backend Engineer | Open |
-| Machine Learning Engineer | Open |
-| Software Engineer | Open |
-| Cloud Engineer | Open |
+|------|--------|
+| Data Engineer | 🟢 Open |
+| Analytics Engineer | 🟢 Open |
+| Backend Engineer (Python) | 🟢 Open |
+| AI Engineer (Entry-Level) | 🟢 Open |
+| Bengaluru & Chennai Opportunities | 🟢 Open |
+
+---
+
+# LEARNING JOURNEY
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Completed
+
+- Python
+- SQL
+- Statistics
+- Pandas
+- Git & GitHub Basics
+
+</td>
+
+<td width="50%" valign="top">
+
+### Currently Learning
+
+- Apache Spark
+- Apache Airflow
+- AWS for Data Engineering
+- Data Warehousing
+- Generative AI
+- Docker
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -107,29 +132,7 @@ I enjoy solving complex engineering problems through clean architecture, automat
 ## Languages
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,bash,sql"/>
-
-</p>
-
----
-
-## Frontend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind"/>
-
-</p>
-
----
-
-## Backend & Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask,postgres,mysql,mongodb,redis"/>
-
+<img src="https://skillicons.dev/icons?i=python,sql,java,c,cpp,bash"/>
 </p>
 
 ---
@@ -137,28 +140,31 @@ I enjoy solving complex engineering problems through clean architecture, automat
 ## Data Engineering
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,mongodb,redis,docker,kafka"/>
-
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,docker,git,github,linux,vscode"/>
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Apache%20Spark-6D28D9?style=for-the-badge&logo=apachespark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Airflow-5B21B6?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hadoop-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Delta%20Lake-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/dbt-9333EA?style=for-the-badge&logo=dbt&logoColor=white"/>
+![](https://img.shields.io/badge/Apache%20Spark-Learning-6D28D9?style=for-the-badge&logo=apachespark&logoColor=white)
+![](https://img.shields.io/badge/Apache%20Airflow-Learning-5B21B6?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![](https://img.shields.io/badge/Data%20Warehousing-Learning-4338CA?style=for-the-badge)
+![](https://img.shields.io/badge/AWS-Learning-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </p>
 
 ---
 
-## Cloud, DevOps & Tooling
+## AI & Data Science
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,git,github,linux,vscode,postman"/>
+![](https://img.shields.io/badge/Pandas-Advanced-7C3AED?style=flat-square)
+![](https://img.shields.io/badge/Statistics-Completed-5B21B6?style=flat-square)
+![](https://img.shields.io/badge/Generative%20AI-Learning-9333EA?style=flat-square)
 
 </p>
 
@@ -166,153 +172,69 @@ I enjoy solving complex engineering problems through clean architecture, automat
 
 # AI / ML EXPERTISE
 
-| Domain | Proficiency | Details |
-|--------|------------|---------|
-| Python for AI | Advanced | NumPy, Pandas, Vectorization, Data Pipelines |
-| Machine Learning | Intermediate | Regression, Classification, Clustering, Evaluation Metrics |
-| Deep Learning | Intermediate | TensorFlow, PyTorch Fundamentals |
-| NLP | Intermediate | Tokenization, Embeddings, Transformers, Hugging Face |
-| Generative AI | Intermediate | LLMs, Prompt Engineering, RAG, Vector Databases |
-| Data Visualization | Advanced | Matplotlib, Plotly, Power BI |
-| Feature Engineering | Advanced | Cleaning, Encoding, Scaling, Pipelines |
-| SQL Analytics | Advanced | CTEs, Window Functions, JSON, Optimization |
-| MLOps | Intermediate | ML Pipelines, Docker, Airflow, CI/CD |
-| Cloud AI | Intermediate | AWS AI Services, S3, Lambda, SageMaker Basics |
+| Domain | Current Level | Details |
+|--------|---------------|---------|
+| Python | Strong Foundation | Data manipulation, scripting, automation |
+| SQL | Strong Foundation | CTEs, Window Functions, Aggregations, Joins |
+| Pandas | Strong Foundation | Cleaning, transformation, exploratory analysis |
+| Statistics | Completed | Descriptive statistics and probability fundamentals |
+| Machine Learning | Learning | Through HCL GUVI curriculum |
+| Apache Spark | Learning | Distributed data processing |
+| Apache Airflow | Learning | Workflow orchestration |
+| AWS | Learning | Data Engineering fundamentals |
+| Generative AI | Learning | LLMs and Prompt Engineering through GUVI |
 
 ---
 
 # FEATURED PROJECTS
 
 <details>
-<summary><b>Scalable Data Warehouse Pipeline</b></summary>
+<summary><b>Global Seismic Trend Analysis</b></summary>
 
-### Enterprise-grade ELT Pipeline
+### Data Analytics Project (Live)
 
-Built an end-to-end modern data warehouse using Python, Spark, Airflow, PostgreSQL, and AWS.
+Analyzed global earthquake records to identify seismic trends, magnitude distribution, geographical hotspots, and temporal patterns using Python and SQL.
 
 | Category | Details |
 |----------|---------|
-| Stack | Python, Spark, Airflow, PostgreSQL, AWS S3 |
-| Scale | Millions of records |
-| Performance | Optimized ETL with partitioning |
-| Security | IAM Roles, Secrets Management |
-| Impact | Analytics-ready warehouse |
-| Repository | Private / Coming Soon |
+| Status | ✅ Live on GitHub |
+| Stack | Python, SQL, Pandas, Matplotlib |
+| Dataset | Global Earthquake Dataset |
+| Focus | Data Cleaning, EDA, Trend Analysis |
+| Repository | Global Seismic Trend Analysis |
 
-#### Highlights
+#### What I learned
 
-- Incremental ETL architecture.
-- Automated scheduling with Airflow.
-- Data validation.
-- Logging.
-- Retry policies.
-- Monitoring dashboards.
+- Data cleaning with Pandas.
+- SQL querying for analytical insights.
+- Exploratory Data Analysis.
+- Visualizing seismic trends.
+- Building a complete analytics project from raw data.
 
 </details>
 
 ---
 
 <details>
-<summary><b>AI Resume Matching Engine</b></summary>
+<summary><b>Online Food Delivery Analysis</b></summary>
 
-### LLM-powered Resume Intelligence Platform
+### Upcoming Data Analytics Project
 
-Semantic search engine for matching resumes with job descriptions.
-
-| Category | Details |
-|----------|---------|
-| Stack | Python, FastAPI, FAISS, LangChain |
-| Scale | Thousands of resumes |
-| Performance | Vector similarity search |
-| Security | Authentication & API Rate Limiting |
-| Impact | AI-powered recruitment assistant |
-| Repository | Coming Soon |
-
-#### Features
-
-- Resume parsing.
-- Embedding generation.
-- Similarity search.
-- Candidate ranking.
-- LLM feedback generation.
-
-</details>
-
----
-
-<details>
-<summary><b>Customer Analytics Platform</b></summary>
-
-### Product Analytics Dashboard
+Currently building a complete exploratory analysis of an online food delivery dataset.
 
 | Category | Details |
 |----------|---------|
-| Stack | SQL, Python, Power BI |
-| Scale | Millions of transactions |
-| Performance | Optimized SQL warehouse |
-| Security | Role-based Access |
-| Impact | Business Intelligence |
-| Repository | Coming Soon |
+| Status | 🚧 In Progress |
+| Stack | Python, SQL, Pandas |
+| Focus | Customer behavior, delivery performance, restaurant analytics |
 
-#### Engineering Scope
+#### Planned Analysis
 
-- Customer segmentation.
-- Cohort analysis.
-- Retention metrics.
-- Revenue analytics.
-- Interactive dashboards.
-
-</details>
-
----
-
-<details>
-<summary><b>Real-Time Streaming Pipeline</b></summary>
-
-### Kafka + Spark Streaming Platform
-
-| Category | Details |
-|----------|---------|
-| Stack | Kafka, Spark Streaming, Docker |
-| Scale | Real-time Event Streaming |
-| Performance | Low-latency ingestion |
-| Security | Secure Kafka Configuration |
-| Impact | Live analytics pipeline |
-| Repository | Coming Soon |
-
-#### Highlights
-
-- Event ingestion.
-- Stream transformations.
-- Aggregations.
-- Data Lake sink.
-- Dashboard integration.
-
-</details>
-
----
-
-<details>
-<summary><b>Generative AI Knowledge Assistant</b></summary>
-
-### Retrieval-Augmented Generation Assistant
-
-| Category | Details |
-|----------|---------|
-| Stack | LangChain, OpenAI API, Pinecone |
-| Scale | Enterprise Documents |
-| Performance | Semantic Retrieval |
-| Security | Document Permissions |
-| Impact | AI Knowledge Platform |
-| Repository | Coming Soon |
-
-#### Features
-
-- Document ingestion.
-- Chunking.
-- Embeddings.
-- RAG pipeline.
-- Streaming responses.
+- Customer ordering trends.
+- Delivery performance.
+- Restaurant ratings.
+- Revenue analysis.
+- Business insights dashboard.
 
 </details>
 
@@ -320,99 +242,45 @@ Semantic search engine for matching resumes with job descriptions.
 
 # EXPERIENCE
 
-## Data Engineering & AI Trainee
+## Data Science & Generative AI Learner — HCL GUVI
 
-**HCL GUVI — Data Science & Generative AI**
+**15 July 2026 — Present**
 
-**2026 — Present**
+Currently learning Data Science and Generative AI through HCL GUVI with a focus on transitioning into Data Engineering.
 
-Working through an industry-oriented curriculum focused on modern Data Engineering and AI systems.
+### Learning Focus
 
-### Scope of Work
+- Python for Data Engineering
+- SQL
+- Data Analytics
+- Machine Learning Fundamentals
+- Generative AI Fundamentals
+- Apache Spark
+- Apache Airflow
+- AWS Fundamentals
 
-- Building production-style ETL pipelines.
-- Advanced SQL engineering.
-- Spark-based processing.
-- Cloud-native architecture.
-- AI application development.
-- Data modeling.
-- Feature engineering.
-- API development.
-
-### Skills
-
-![](https://img.shields.io/badge/Python-7C3AED?style=flat-square)
-![](https://img.shields.io/badge/SQL-5B21B6?style=flat-square)
-![](https://img.shields.io/badge/Spark-6D28D9?style=flat-square)
-![](https://img.shields.io/badge/Airflow-4F46E5?style=flat-square)
-![](https://img.shields.io/badge/AWS-9333EA?style=flat-square)
-
----
-
-## Independent Data Engineering Portfolio
-
-**Self-Driven Engineering Portfolio**
-
-### Focus Areas
-
-- Data Warehousing.
-- Batch Processing.
-- Distributed Systems.
-- Cloud Storage.
-- CI/CD.
-- Dockerized Applications.
-- Analytics Engineering.
-- AI Integrations.
+> This is a learning program and not professional work experience.
 
 ---
 
 # ACHIEVEMENTS
 
-<p align="center">
-
 | Recognition | Details |
 |-------------|---------|
-| Data Engineering Roadmap | Built enterprise learning roadmap focused on production systems |
-| SQL Mastery | Advanced Window Functions, CTEs, JSON Processing |
-| AI Portfolio | Building multiple end-to-end AI applications |
-| Cloud Learning | AWS Cloud & DevOps workflow implementation |
-| Analytics Projects | Business Intelligence dashboards using SQL & Python |
-
-</p>
+| B.E. Mechatronics Engineering | Graduated in 2023 |
+| Career Transition | Transitioning into Data Engineering |
+| First Portfolio Project | Global Seismic Trend Analysis published on GitHub |
+| Current Program | HCL GUVI — Data Science & Generative AI |
 
 ---
 
 # CERTIFICATIONS
 
-## AWS
+Currently pursuing certifications.
 
-![](https://img.shields.io/badge/AWS-Cloud%20Practitioner-5B21B6?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-![](https://img.shields.io/badge/AWS-Solutions%20Architect-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white)
-
----
-
-## Oracle
-
-![](https://img.shields.io/badge/Oracle-SQL-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
-
-![](https://img.shields.io/badge/Oracle-Database-9333EA?style=for-the-badge&logo=oracle&logoColor=white)
-
----
-
-## Cisco
-
-![](https://img.shields.io/badge/Cisco-Python-4F46E5?style=for-the-badge&logo=cisco&logoColor=white)
-
-![](https://img.shields.io/badge/Cisco-Networking-4338CA?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Programming-5B21B6?style=for-the-badge)
-
-![](https://img.shields.io/badge/NPTEL-Data%20Science-7C3AED?style=for-the-badge)
+| Provider | Status |
+|----------|--------|
+| HCL GUVI — Data Science & Generative AI | 🟡 In Progress |
 
 ---
 
@@ -420,20 +288,12 @@ Working through an industry-oriented curriculum focused on modern Data Engineeri
 
 <p align="center">
 
-<a href="https://leetcode.com/your-profile">
-<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<a href="#">
+<img src="https://img.shields.io/badge/LeetCode-Coming%20Soon-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/your-profile">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/your-profile">
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
-</a>
-
-<a href="https://www.codechef.com/users/your-profile">
-<img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<a href="https://www.hackerrank.com/profile/gkharish2324">
+<img src="https://img.shields.io/badge/HackerRank-gkharish2324-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 </a>
 
 </p>
@@ -444,15 +304,15 @@ Working through an industry-oriented curriculum focused on modern Data Engineeri
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=G-K-Harish&show_icons=true&count_private=true&hide_border=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G-K-Harish&layout=compact&hide_border=true&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=your-github-username&hide_border=true&background=0D1117&ring=A855F7&fire=7C3AED&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=A1A1AA&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+<img src="https://streak-stats.demolab.com?user=G-K-Harish&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -462,7 +322,7 @@ Working through an industry-oriented curriculum focused on modern Data Engineeri
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=G-K-Harish&theme=algolia&row=2&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -472,7 +332,7 @@ Working through an industry-oriented curriculum focused on modern Data Engineeri
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark&hide_border=true&area=true&color=A855F7&line=7C3AED&point=C4B5FD"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=G-K-Harish&theme=tokyo-night&hide_border=true&area=true"/>
 
 </p>
 
@@ -492,41 +352,28 @@ Working through an industry-oriented curriculum focused on modern Data Engineeri
 
 ```yaml
 learning:
-  - Advanced Data Engineering
   - Apache Spark
   - Apache Airflow
-  - Kafka
-  - AWS Data Analytics
+  - AWS Fundamentals
   - Data Warehousing
-  - Distributed Systems
-  - MLOps
-  - Kubernetes
-  - Terraform
+  - Generative AI
 
 building:
-  - End-to-End ELT Pipelines
-  - Streaming Data Platform
-  - AI Resume Intelligence Platform
-  - Analytics Dashboard
-  - RAG Knowledge Assistant
+  - Online Food Delivery Analysis
   - Data Engineering Portfolio Projects
 
-exploring:
-  - Lakehouse Architecture
-  - Delta Lake
-  - Snowflake
-  - dbt
-  - LangChain
-  - Vector Databases
-  - Feature Stores
+completed:
+  - Python
+  - SQL
+  - Statistics
+  - Pandas
+  - Global Seismic Trend Analysis
 
-open_to:
-  - Data Engineer
-  - AI Engineer
-  - Backend Engineer
-  - Software Engineer
-  - Machine Learning Engineer
-  - Cloud Engineer
+goal:
+  role: Aspiring Data Engineer
+  locations:
+    - Bengaluru
+    - Chennai
 ```
 
 ---
@@ -535,20 +382,20 @@ open_to:
 
 <p align="center">
 
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:gkharish2324@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-gkharish2324%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
-<img src="https://img.shields.io/badge/LinkedIn-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/harish-gk">
+<img src="https://img.shields.io/badge/LinkedIn-Harish%20G%20K-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/your-github-username">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/G-K-Harish">
+<img src="https://img.shields.io/badge/GitHub-G--K--Harish-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-312E81?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -556,13 +403,9 @@ open_to:
 ---
 
 <p align="center">
-
-### *Engineering reliable systems. Building intelligent products. Scaling with data.*
-
+  <i>"Building strong foundations today for scalable data systems tomorrow."</i>
 </p>
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,14,18,20,24"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=gradient&customColorList=6,12,14,18,20,24" width="100%" />
 </p>
